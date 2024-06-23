@@ -1,0 +1,25 @@
+/* 
+Theme: Social Media Web App;
+Author: Vijay Thapa;
+Version: 1.0;
+*/
+
+.main-content{
+    background-color: #EFF2F6;
+}
+
+.a-link{
+    text-decoration: none;
+    color: black;
+}
+.a-link:hover{
+    color: #39B47B;
+}
+
+.a-link-active{
+    text-decoration: none;
+    color: #39B47B;
+}
+.a-link-active:hover{
+    color: #34a571;
+}
